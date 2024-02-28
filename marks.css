@@ -1,0 +1,22 @@
+
+
+  
+@media (max-width: 768px) {
+
+    .table-responsive {
+        overflow-x: auto;   
+      }
+      .table {
+        width: auto;
+      }
+     
+      .table thead th {
+        font-size: 10px;
+        padding: 4px;
+      }
+      .table tbody td {
+        font-size: 14px;
+        padding: 8px;
+      }
+    
+}

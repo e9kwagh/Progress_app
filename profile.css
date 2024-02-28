@@ -1,0 +1,52 @@
+img{
+
+width: 8rem;
+
+
+}
+
+
+
+@media (max-width: 768px) {
+   
+   
+
+    .truncate {
+       
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 5ch; 
+        white-space: nowrap;
+    }
+  }
+  
+
+
+
+.custom-tooltip-assignment .tooltip-inner {
+    background-color: #ffcc00; 
+}
+
+
+
+
+
+
+.custom-tooltip-Attandance .tooltip-inner {
+    background-color: #FFA500; 
+}
+  /* .table-responsive {
+    overflow-x: auto;   
+  }
+  .table {
+    width: auto;
+  }
+ 
+  .table thead th {
+    font-size: 14px;
+    padding: 8px;
+  }
+  .table tbody td {
+    font-size: 14px;
+    padding: 8px;
+  } */
